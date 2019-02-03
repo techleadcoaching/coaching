@@ -21,5 +21,6 @@ TODO: continue this document
 
 ## More In This Section
 * **[Yes You Can Coach](./intro.md)** - an intro that you, yes even YOU, can be a great tech lead coach and why you should
+* **[Getting Started](./getting-started.md)** - how to get started as a tech lead coach with the Tech Lead Network
 * **[Basic Dos and Don'ts](./mechanics.md)** - the basic mechanics of coaching such as scheduling and communicating
 
