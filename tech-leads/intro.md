@@ -1,6 +1,6 @@
-# Being a Tech Lead
+# Chapter One: Being a Tech Lead
 
-> Leadership is influence - nothing more, nothing less. - John C. Maxwell
+This chapter spends some time to explore the role of the tech lead and why coaching may help you grow your impact as a tech lead.
 
 ## What is a Tech Lead?
 
@@ -8,25 +8,41 @@ It may be helpful if we pause to explore the tech lead role a bit. Patrick Kua, 
 
 > A Tech Lead is a software engineer, responsible for leading a development team, and responsible for the quality of its technical deliverables. [The Definition of a Tech Lead - patkua@work](https://www.thekua.com/atwork/2014/11/the-definition-of-a-tech-lead/)
 
-**Our definition**: our definition and approach is a bit broader, I think simpler, and emphasizes discrete, individual skills over theories, principles, or definitions.
+**Our definition**: our definition and approach is a bit broader, I think simpler, and emphasizes discrete, individual skills over theories, principles, or definitions.  We define a tech lead as anyone in a technical field (such as, but not limited to, software engineering) who needs to influence his or her team to take a certain act or series of acts.
 
-In other words, the tech lead role is not necessarily a formal one. You might be a data scientist, software architect, senior software engineer, a consultant, or even a relative newbie. Indeed, there may not be anyone calling you a “tech lead” even if that is how you may want to start thinking about your role.
+In other words, we take the perspective that the tech lead role is not necessarily a formal one. You might be a data scientist, software architect, senior software engineer, a consultant, or even a relative newbie. Indeed, there may not be anyone calling you a “tech lead” even if that is how you may want to start thinking about your role. Moreover, you may only be in a tech lead role momentarily. Your management may ask you to "drive" a certain feature or project, and so you need to take on a tech lead role for a few weeks or months.
 
-Developing tech lead skills is something almost everyone needs to do at some point in their career.
+No matter whether you want to evolve your career into a leadership position or not, developing tech lead skills is something almost everyone needs to do at some point in their career.
+
+## What Do Tech Leads Do?
+
+The tech lead role in some companies is a formal designation with a clear job description. In other companies and contexts, the tech lead role is more ambiguous. 
+
+In either case, some of the daily activities that tech leads participate in may include the following non-exhaustive list:
+
+* pairing up with engineering management to be the interface between the technical team and other engineering functions, such as product management, quality assurance, project management, and etc.;
+* participating in feature design sessions;
+* understanding, clarifying, and triaging bugs and tech debt;
+* tracking what the technical team is doing, at a deeped technical level than typical engineering management;
+* clearly articulating the status of the work to the next level of management or other constituencies;
+* making adjustments to the work that other individual contributors are doing; and
+* much, much more.
 
 ## The Role is Fluid and Leadership is Simple
 
-The need for leadership is not a constant demand. In other sections, we'll explore “leadership moments,” which can be fleeting and you need to learn to identify, but you may be an individual contributor and suddenly find yourself in a role to, say, lead a team on how fix a bug, being the point person for developing a complicated new feature with the rest of the team, or defining a new architectural approach where leadership and coordination skills are crucial to the team’s success. When the bug or decision is made, leaderships is no longer as important.
+Reading the list of day to day tasks should make clear that the need for leadership is not a constant demand. 
 
-Put most simply, you only need leadership skills when you need people to follow you. The challenge for many tech leads is that they often receive very little support as they transition into the role. So developing those skills is what the Tech Lead Coaching Network is all about.
+In other sections, we will explore “leadership moments,” which can be fleeting and you need to learn to identify. You may be an individual contributor and unexpectedly find yourself in a moment where you need to, say, lead a team on how fix a bug, being the point person for developing a complicated new feature with the rest of the team, or defining a new architectural approach where leadership and coordination skills are crucial to the team’s success. When the bug or decision is made, the need for your leadership declines.
+
+Put more simply, you only need leadership skills when you need people to follow you. 
+
+The challenge for many tech leads is that they typically receive very little support as they transition into the role. So developing those skills is what the Tech Lead Coaching Network is all about.
 
 ## Why Consider Coaching?
 
-To explain the value of coaching for your tech leadership, let’s start with software engineering. Programming is a skill. You had to learn how to write code in a programming language. But you probably didn’t learn much about programming from taking a class, let alone how to be a professional software engineer, did you?
+To explain the value of coaching for your tech leadership, let us start with a process that may be familiar: programming. Programming is a skill. To be a programmer, you have to learn the nuances of a programming language. Maybe you took classes on the subject. Maybe you are self taught. But learning to write code and get it to compile and perform correctly is a journey you go on.
 
-Software engineers constantly practice their skill by writing new code. They read other people’s code. The learn new skills and techniques from books, other software engineers, and sites like StackOverflow. And they improve over time.
-
-Programmers also get quick feedback, which reinforces or corrects their skill. When it works they often seek further optimizations and when it does not they search for answers. These days, product teams often get pretty fast feedback from the market as well through techniques like A/B testing. These feedback loops are pretty fast.
+Good programmers continue to invest in their skill by writing new code. They read other people’s code. The learn new skills and techniques from books, other software engineers, and sites like StackOverflow. And they improve over time. Between the compiler's feedback, the unit tests' results, and the internet, the feedback loop for programmers is pretty fast. 
 
 Now contrast those fast feedback loops with leading people. When working with people, things take time. Sometimes you get negative feedback. Sometimes you get feedback when you didn’t want it. Sometimes you get no feedback at all. It is hard to know what worked and what did not.
 
@@ -35,8 +51,6 @@ Moreover, there are relatively few ways to Google your way to optimize or debug 
 Coaching is a way to get at least a bit of feedback as you grow your tech leadership skills. Just as programmers learn that there is nothing magical about code, there is similarly nothing magical about leadership. It is simply a set of behaviors and skills that need to be developed and practiced.
 
 ## What is Tech Lead Coaching?
-
-*TODO*: add a summary of this section
 
 In our view of tech lead coaching, it is a peer based relationship and series of conversations where you work with another tech lead to develop your leadership skills.
 
@@ -63,7 +77,3 @@ The Network is an idea started by me after working at Red Hat, which is the lead
 In the process, it became clear to me how important team-level leadership is, not just for the field engineering teams I was deploying but at client sites as well. Technology, especially cutting edge technology, creates problems and issues to be sure, but the vast majority of the times that a project was highly successful it was either because of skilled client leadership or skilled leadership on the team. The roles and titles didn’t matter; solid communication and leadership skills made or broke a project every time.
 
 Following the open source tradition, the Tech Lead Coaching Network is a peer to peer, open community where tech leads can grow their leadership skills.
-
-## More In This Section
-* **[Core Tech Lead Skills](./skills.md)** a survey of the core skills that we feel tech leads should consider developing and that we counsel coaches to focus on
-* **[How to Participate in Coaching](./being-coached.md)** - a brief guide on how to get the most out of tech lead coaching.

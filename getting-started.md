@@ -4,9 +4,11 @@ This is a brief guide to describe what the Tech Lead Coaching Network is, who sh
 
 ## This May Not Be For You.
 
-Before reading further, ask yourself if you really want to get started with the Tech Lead Coaching Network. The Network is intended only for those who are *truly* interested in growing their technical leadership skills.
+Before reading further, ask yourself if you really want to get started with the **Tech Lead Coaching Network**. The Network is intended only for those who are *truly* interested in growing their technical leadership skills.
 
-By contrast, if you’re considering joining the program solely because your boss added it as a checklist on your annual review, then this program is not for you. Similarly, if you are currently struggling as tech lead, but you’re fundamentally only interested in doing the least possible to get by in your career, then this program is also not for you.
+By contrast, if you’re considering joining the program only because your boss added it as a checklist on your annual review, then this program may not for you. Similarly, if you are currently struggling as tech lead, but you’re fundamentally only interested in doing the least possible to get by in your career, then this program is also not for you.
+
+We say this because being in a leadership role -- truly stepping into it and seeking to make an impact on your life and others through your tech lead role -- takes a lot of commitment. 
 
 ## It May Be For You.
 
@@ -16,11 +18,11 @@ If you’re drawn to this program, then chances are you've got the right attitud
 
 ## What is Tech Lead Coaching?
 
-As just stated, it's really just a safe space where tech leads and coaches work together work through daily problems and frustrations to grow your impact as a tech lead over time.
+As just stated, a coaching relationship is really just an ongoing conersation in a safe space where tech leads and coaches talk through daily problems and frustrations to grow your impact as a tech lead over time.
 
 It is **not**:
 * a training program,
-* a paid corporate thing, or
+* a paid corporate offering, or
 * tightly controlled by anyone.
 
 It **is**:
@@ -32,13 +34,19 @@ It **is**:
 
 ## How to Get Started
 
-If you're ready to get connected to the Network now either a tech lead or a coach, please navigate to our community engagement site at **[Tech Lead Coaching](https://techleadcoaching.com)**.
+It's easy! Sign up as a coach or a tech lead seeking coaching on our community webite: **[Tech Lead Coaching Networking](https://techleadcoaching.com)**
 
-For now, until the network grows and we build some technology to match coaches and tech leads, Michael Rice is handling all the coordination and matching. If you want to reach him direct drop a note to michael at techleadcoaching.com.
+For now, until the network grows and we build a platform or application to match coaches and tech leads, the community's organizer, Michael Rice, is handling all the coordination and matching. If you want to reach him directly send an email to michael at techleadcoaching dot com.
+
+## If You're Not Quite Ready To Get Started
+
+If you're not sure if you're ready to involved in the Network as a coach or tech lead right at the moment, that's fine! At [techleadcoaching.com](https://techleadcoaching.com) you can join at the "Lurker" level where we'll send you weekly email updates on what we're doing and how we grow as a community.
 
 ## We're Still Growing; Be Patient
 
-It can take a few hours or weeks to make a match, so please site tight! And in the meantime you can learn more:
+It can take a few hours or weeks to make a match, so please site tight! 
 
-* **Tech leads** - learn more about the tech lead role, the core tech lead skills our coaches tend to focus on, and more in the [tech lead section](./tech-leads) of the site.
-* **Coaches** - learn more about what it takes to be a coach, why it could be a rewarding experience for you, and how to be successful with it in the [coaches' section](./coaches) of the site.
+In the meantime you can learn more:
+
+* **For tech leads**: learn more about the tech lead role, the core tech lead skills our coaches tend to focus on, and more in the [Tech Lead's Guide](./tech-leads) of the site.
+* **For coaches** - learn more about what it takes to be a coach, why it could be a rewarding experience for you, and how to be successful with it in the [Coach's Guide](./coaches) of the site.

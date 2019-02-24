@@ -1,4 +1,4 @@
-# For Tech Lead Coaches
+# Tech Lead Coach's Guide
 
 This section of the [Tech Lead Coaching Guide](../) is written for those of us who are interested in coaching other tech leads. If you are more interested in being coached, please visit the [tech lead's](../tech-leads/) section. 
 
@@ -14,15 +14,13 @@ Most of the insight and knowledge you'll likely get by reaching out to other coa
 
 ## Overview of This Section
 
-The first topic, **[Yes You Can Coach](./intro.md)**, is intended to answer the question many first time tech lead coaches will probably have: do I have enough knowledge or insight to coach other tech leads? Spoiler alert: it doesn't take knowledge or insight, it just takes a good listener.
+The first chapter, **[Yes You Can Coach](./yes-you-can-coach .md)**, is intended to answer the question many first time tech lead coaches will probably have: do I have enough knowledge or insight to coach other tech leads? Spoiler alert: it doesn't take knowledge or insight, it just takes a good listener.
 
-Next, we'll explore **[Getting Started](./getting-started.md)** with the Tech Lead Network. This topic covers some of the basics about how to sign up as a coach, how you'll get tech leads to coach, getting support from the network. 
+In Chapter Two, we'll explore **[Getting Started](./getting-started.md)** with the Tech Lead Network. This topic covers some of the basics about how to sign up as a coach, what kind of training and support we offer, how you will get tech leads to coach, getting support from the network. 
 
-The Getting Started section also includes some guidance if you're considering  starting your own Tech Lead Network at work or in your community.
+If tech lead coaches are the heart of the network, then **[Tech Lead Coaching Model](./model.md)** is the initial brains of it. Chapter Three explores our prescriptive model to get you started making your biggest impact a coach of tech leads. It is by no means an exhaustive model for how to be a coach, but it does offer a framework that we feel will get a new coach up to speed quickly.
 
-If tech lead coaches are the heart of the network, then **[Tech Lead Coaching Model](./model.md)** is the initial brains of it. This topic explores our prescriptive model to get you started as a tech lead coach. It is by no means an exhaustive model for how to be a coach, but it does offer a framework that we feel will get a new coach up to speed quickly.
-
-Finally, the **[Basic Dos and Don'ts](./mechanics.md)** covers some of the logistics for scheduling, getting started, and some practical tips for new coaches to use when engaging with tech leads. 
+Finally, Chapter Four, **[Tech Lead Coaching Logistics and Coaching Advice](./mechanics.md)**, covers some of the logistics for scheduling, getting started, and some practical tips for new coaches to use when engaging with tech leads. 
 
 Thank you for your leadership.
 
