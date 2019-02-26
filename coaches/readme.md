@@ -1,3 +1,9 @@
+---
+title: "The Coach's Guide"
+draft: false
+type: "guide"
+---
+
 # Tech Lead Coach's Guide
 
 This section of the [Tech Lead Coaching Guide](../) is written for those of us who are interested in coaching other tech leads. If you are more interested in being coached, please visit the [tech lead's](../tech-leads/) section. 

@@ -1,3 +1,9 @@
+---
+title: "Chapter Two: The Five Tech Lead Pareto Skills"
+draft: false
+type: "guide"
+---
+
 # Chapter Two: Tech Lead Pareto Skills
 
 [From the overview: Chapter Two goes beyond the description of the day to day tasks described Chapter One to explore the soft skills that are required for most tech leads to be successful. It then zooms in on the five skills that we advise coaches to focus on during coaching sessions. We call then the Pareto skills because we feel those five skills, when developed to maturity, can have the biggest shift on the tech lead's ability to impact their enterprises or organizations.]

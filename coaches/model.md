@@ -1,3 +1,9 @@
+---
+title: "Chapter Three: The Tech Lead Coaching Model"
+draft: false
+type: "guide"
+---
+
 # Chapter Three: The Tech Lead Coaching Model
 
 In addition to the getting started guidance we offer in Chapter Two and the mechanics and logistics of the coaching conversations that we will explore in Chapter Four, the following section provides some specific guidance for coaches to focus conversations on. The focus is on the tech lead's maturity in certain skills.

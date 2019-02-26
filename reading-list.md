@@ -1,5 +1,10 @@
-# Reading List
+---
+title: "Tech Lead Reading List"
+draft: false
+type: "guide"
+---
 
+# Reading List
 ## Long Reads
 
 * Patrick Kua *[Talking With Tech Leads](https://www.amazon.com/dp/B014Q2C4M4/)* - draws on a variety of tech leads at ThoughtWorks and their fairly well defined tech lead role as well other tech leads in the industry. (Of note, we offer a different, broader definition of a tech lead in the Tech Lead Coaching Network from Kua.)

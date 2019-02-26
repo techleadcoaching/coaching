@@ -1,4 +1,10 @@
-# Chapter Three: How to be Coached
+---
+title: "Chapter Three: How to be Coached as a Tech Lead"
+draft: false
+type: "guide"
+---
+
+# Chapter Three: How to be Coached as a Tech Lead
 
 Getting coaching in your career is probably a new experience, and it likely is a fairly new experience for your coach as well since the Tech Lead Coaching Network is quite new and still a work in progress. This chapter is intended to give you both some ideas about the "broad strokes" of coaching as well as some specific, practical details. The goal of this chapter is threefold: (1) give you some confidence or reduce your anxiety about this new relationship, (2) provide you some very actionable advice about how to receive coaching (including some dos and don'ts), and (3) giving you some instruction on how to get the most of the relationship.
 
@@ -94,10 +100,3 @@ Second, **show up**. More positively, come to the meeting with your most optimis
 Finally, **be real**. We ask our coaches to ask you, "How are you doing?" This is more than a passing question. It's intended to prompt you to really think deeply about how are you doing. When you were driving to work today, what were you worried about? What actually happened? How do you feel about it now? That software engineer that you have been struggling to reach that you talked to your coach about last month, how is it really going now? 
 
 "Fine" is almost never the right answer, and only you know if you are telling the truth. Lying to your coach will accomplish nothing; being real will make this a great relationship.
-
-
-
-
-## More In This Section
-* **[Being a Tech Lead](./intro.md)** - essay on our take on the tech lead role, what it's like to be a tech lead, and why coaching and mentoring may be so useful
-* **[Core Tech Lead Skills](./skills.md)** a survey of the core skills that we feel tech leads should consider developing

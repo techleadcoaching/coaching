@@ -1,3 +1,9 @@
+---
+title: "Chapter One: Yes You -- Even YOU -- Can Coach"
+draft: false
+type: "guide"
+---
+
 # Chapter One: Yes You -- Even YOU -- Can Coach
 
 If you are interested in coaching, I wish I could sit right next to you right now and talk you through it because you are in many ways the most important part of the network. 

@@ -1,3 +1,9 @@
+---
+title: "Chapter Two: Getting Started as a Tech Lead Coach"
+draft: false
+type: "guide"
+---
+
 # Chapter Two: Getting Started as a Tech Lead Coach
 
 [In Chapter Two, we'll explore **[Getting Started](./getting-started.md)** with the Tech Lead Network. This topic covers some of the basics about how to sign up as a coach, what kind of training and support we offer, how you will get tech leads to coach, getting support from the network. ]
