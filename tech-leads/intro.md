@@ -28,7 +28,7 @@ In either case, some of the daily activities that tech leads participate in may 
 
 * teaming up with engineering management to be the interface between the technical team and other related functions, such as product management, quality assurance, project management, and etc.;
 * architecting, designing, or driving buy in for key technical decisions;
-* participating in feature design sessions;
+* participating in feature design sessions and advocating for the team;
 * understanding, clarifying, and triaging bugs and tech debt;
 * tracking what the technical team is doing at a deeper technical level than typical engineering management;
 * clearly articulating the status of the work to the next level of management or other constituencies;
