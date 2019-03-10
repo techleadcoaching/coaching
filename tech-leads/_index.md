@@ -14,9 +14,9 @@ We are a free, open source, community driven, and volunteer-based organization o
 
 This guide is focused on you and your role as a tech lead. If you are currently a tech lead and you are considering joining the Network to get coaching from another, more experienced tech lead, then you are in the right place! 
 
-If, instead, you are tech lead hoping to coach other tech leads, then please review the [Coach's Guide](/guides/coaches/readme). 
+If, instead, you are tech lead hoping to coach other tech leads, then please review the [Coach's Guide](/guides/coaches/). 
 
-Also, if you are interested in organizing your own tech lead coaching network in your community or company, we are developing some guidance for that as well in the [Organizer's Guide](/guides/organizers/readme/), but that section is very much a work in progress.
+Also, if you are interested in organizing your own tech lead coaching network in your community or company, we are developing some guidance for that as well in the [Organizer's Guide](/guides/organizers/), but that section is very much a work in progress.
 
 ## What This Guide Covers
 

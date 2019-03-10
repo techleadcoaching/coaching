@@ -43,4 +43,4 @@ It **is**:
 
 Please read on for more details and more information **how to get started**! 
 
-If you are a tech lead interested in being coached, continue reading in the **[Tech Lead's Guide](/guides/tech-leads/readme/)**. If you are interested in being a coach, continue reading our **[Coach's Guide](/guides/coaches/readme)**.
+If you are a tech lead interested in being coached, continue reading in the **[Tech Lead's Guide](/guides/tech-leads/)**. If you are interested in being a coach, continue reading our **[Coach's Guide](/guides/coaches/)**.
